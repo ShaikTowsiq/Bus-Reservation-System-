@@ -1,0 +1,77 @@
+=== Main Menu ===
+1. Login
+2. Exit
+Enter your choice: 1
+Enter Username: user1
+Enter Password: pass1
+Login successful. Welcome, user1!
+
+=== User Menu ===
+1. Book a Ticket
+2. Cancel a Ticket
+3. Check Bus Status
+4. Logout
+Enter your choice: 3
+
+Enter Bus Number: 101
+
+Bus Number: 101
+Source: City A
+Destination: City B
+Total Seats: 50
+Available Seats: 50
+Fare: 500.00
+
+=== User Menu ===
+1. Book a Ticket
+2. Cancel a Ticket
+3. Check Bus Status
+4. Logout
+Enter your choice: 1
+
+Enter Bus Number: 101
+Enter Number of Seats: 2
+Booking successful! 2 seats booked on Bus Number 101.
+
+=== User Menu ===
+1. Book a Ticket
+2. Cancel a Ticket
+3. Check Bus Status
+4. Logout
+Enter your choice: 3
+
+Enter Bus Number: 101
+
+Bus Number: 101
+Source: City A
+Destination: City B
+Total Seats: 50
+Available Seats: 48
+Fare: 500.00
+
+=== User Menu ===
+1. Book a Ticket
+2. Cancel a Ticket
+3. Check Bus Status
+4. Logout
+Enter your choice: 2
+
+Enter Bus Number: 101
+Enter Number of Seats to Cancel: 1
+Cancellation successful! 1 seats canceled on Bus Number 101.
+
+=== User Menu ===
+1. Book a Ticket
+2. Cancel a Ticket
+3. Check Bus Status
+4. Logout
+Enter your choice: 3
+
+Enter Bus Number: 101
+
+Bus Number: 101
+Source: City A
+Destination: City B
+Total Seats: 50
+Available Seats: 49
+Fare: 500.00
